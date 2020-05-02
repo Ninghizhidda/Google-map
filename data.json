@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Sofia Bike Rental",
+    "latitude": "42.692821",
+    "longitude": "23.328738",
+    "contact": "www.sofiabikerental.com",
+    "type": "rent"
+  },
+  {
+    "name": "Sofia Rent Center",
+    "latitude": "42.6674952",
+    "longitude": "23.2857399",
+    "contact": "www.sofiarentcenter.com",
+    "type": "rent"
+  },
+  {
+    "name": "Drag Zone",
+    "latitude": "42.6700007",
+    "longitude": "23.2928839",
+    "contact": "www.velomania-bg.com",
+    "type": "service"
+  },
+  {
+    "name": "True Riders",
+    "latitude": "42.682068",
+    "longitude": "23.322313",
+    "contact": "www.trueriders.bg",
+    "type": "service"
+  },
+  {
+    "name": "NDK",
+    "latitude": "42.685882",
+    "longitude": "23.318138",
+    "type": "parking"
+  },
+  {
+    "name": "Sofia municipality",
+    "latitude": "42.696701",
+    "longitude": "23.332965",
+    "type": "parking"
+  }
+]
