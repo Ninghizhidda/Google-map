@@ -3,7 +3,7 @@ var map;
 function myMap() {
 //read json
   $.ajax({
-     url: 'https://api.myjson.com/bins/8ys8n',
+     url: 'data.json',
      dataType: 'json',
      success: function(data) {
         var clatitude = data[0].latitude;
